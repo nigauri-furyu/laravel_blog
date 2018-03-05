@@ -8,6 +8,6 @@ class HelloWorldController extends Controller
 {
     //
     public function getIndex() {
-        echo "ウェイウェイ大学生";
+        echo "気をつけなはれや";
     }
 }
